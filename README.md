@@ -1,4 +1,4 @@
-# Streamlit Receipt Count Predictor for Fetch
+# Streamlit Receipt Count Predictor
 
 This application is a Streamlit-based predictor designed to estimate the total receipt count for Fetch. It requires only a month and a year to make a prediction.
 
